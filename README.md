@@ -1,6 +1,7 @@
 # Typescript_Vanilla
 
 Este repositorio contiene un proyecto que utiliza TypeScript con Vanilla JavaScript para construir una aplicación moderna y eficiente.
+![Solana](https://vitejsvitetjpvwb-dxln-gqn0c6ne--5173--34c588ed.local-credentialless.webcontainer.io)
 
 ## Descripción
 
